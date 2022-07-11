@@ -12,7 +12,11 @@ Gendral Instruction
 If still it didn't exit then it would be firmware error.
 
 Gendral Information
-AI DECK will have inbuild hotspot 
+* AI DECK will have inbuild hotspot.
+* How to find the USB Port number in Ubuntu ?
+df - TH | grep media
+lsblk | grep media
+ls /dev
 
 Configure the Flight
 Step 1
