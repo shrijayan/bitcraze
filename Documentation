@@ -3,6 +3,8 @@
 Introduction to crazyflie 2-0
 https://www.bitcraze.io/documentation/tutorials/getting-started-with-development/
 
+11/07/2022
+
 Gendral Instruction
 * One click to turn on the Drone
 * Before turning on Long press the button to turn on the BOOTLOADER MODE
@@ -15,10 +17,11 @@ AI DECK will have inbuild hotspot
 Configure the Flight
 Step 1
 https://www.bitcraze.io/documentation/repository/crazyflie-lib-python/master/installation/usb_permissions/
+(this step 1 is used after installing the cfclient and configuring the USB)
 
 Step 2
 https://www.bitcraze.io/documentation/repository/crazyflie-clients-python/master/installation/install/
 
-https://www.bitcraze.io/documentation/tutorials/getting-started-with-crazyflie-2-x/#inst-comp (This link is to configure joystick with the bitcraze) 
-
 Step 3
+https://www.bitcraze.io/documentation/tutorials/getting-started-with-crazyflie-2-x/#inst-comp (This link is to configure joystick with the bitcraze) 
+(Use JTAG method to run the mothod)
