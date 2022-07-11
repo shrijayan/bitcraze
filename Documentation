@@ -17,6 +17,7 @@ Gendral Information
 df - TH | grep media
 lsblk | grep media
 ls /dev
+dmesg ! tail
 
 Configure the Flight
 Step 1
