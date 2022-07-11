@@ -3,8 +3,12 @@
 Introduction to crazyflie 2-0
 https://www.bitcraze.io/documentation/tutorials/getting-started-with-development/
 
-Configure the Flight
+Gendral Instruction
+* One click to turn on the Drone
+* Before turning on Long press the button to turn on the BOOTLOADER MODE
+* To exit the BOOTLOADER MODE again when the drone is turned on long press the button, if it doesn't exit disconnect the battery and reconnect (but avoid this method). If still it didn't exit then it would be firmware error.
 
+Configure the Flight
 Step 1
 https://www.bitcraze.io/documentation/repository/crazyflie-lib-python/master/installation/usb_permissions/
 
