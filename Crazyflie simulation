@@ -1,3 +1,4 @@
+->https://2022.imavs.org/index.php/competition/nanocopter-ai-challenge
 ->This file contains the basic steps to implement the crazyflie simulation in Gazebo.
 ->Currently it contains low resolution meshes based on the design of the actual [crazyflie 2.1](https://www.bitcraze.io/products/crazyflie-2-1/) 
   but heavily simplified to contain as little vertices as possible, so it can be used to simulate a lot of them!
