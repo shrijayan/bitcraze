@@ -6,3 +6,13 @@
   Step-1:
   ->$sudo snap install webots
   ->$webots webots/worlds/crazyflie_world.wbt
+  
+  Step-2:
+  ->Go into the crazyflie_simulation/controllers/ folder
+  ->sudo apt install swig
+  ->swig -python pid_controller.i
+  ->python3 setup.py build_ext --inplace
+  
+  Step-3:
+  ->Go the crazyflie-firmware directory
+  ->$make bindings_python
