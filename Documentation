@@ -44,3 +44,4 @@ remove these lines in src/drivers/src/ws2812_cf2.o line 221
 Code your own Crazyflie
 https://www.bitcraze.io/documentation/tutorials/getting-started-with-development/#next-steps
 
+https://github.com/JGSuw/rospy_crazyflie
