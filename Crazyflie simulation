@@ -15,4 +15,5 @@
   
   Step-3:
   ->Go the crazyflie-firmware directory
+  ->make defconfig
   ->$make bindings_python
