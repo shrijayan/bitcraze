@@ -40,3 +40,7 @@ Submake error during make
 remove these lines in src/drivers/src/ws2812_cf2.o line 221
 #pragma GCC diagnostic push
 #pragma GCC diagnostic ignored "-Waddress-of-packed-member"
+
+Code your own Crazyflie
+https://www.bitcraze.io/documentation/tutorials/getting-started-with-development/#next-steps
+
