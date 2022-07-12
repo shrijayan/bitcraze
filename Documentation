@@ -35,3 +35,8 @@ https://www.bitcraze.io/documentation/tutorials/getting-started-with-crazyflie-2
 
 AI Deck Wifi Streamer:
 https://www.bitcraze.io/documentation/repository/aideck-gap8-examples/master/test-functions/wifi-streamer/
+
+Submake error during make
+remove these lines in src/drivers/src/ws2812_cf2.o line 221
+#pragma GCC diagnostic push
+#pragma GCC diagnostic ignored "-Waddress-of-packed-member"
